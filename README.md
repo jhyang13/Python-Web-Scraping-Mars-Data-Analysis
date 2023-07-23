@@ -3,7 +3,7 @@ Jiahui's homework for Module 11
 
 part_1_mars_news.ipynb is for Part 1: Scrape Titles and Preview Text from Mars News.
 
-part_2_mars_weather_method1.ipynb and part_2_mars_weather_method2.ipynb is for Part 2: Scrape and Analyze Mars Weather Data.
+part_2_mars_weather_method1.ipynb and part_2_mars_weather_method2.ipynb are for Part 2: Scrape and Analyze Mars Weather Data.
 
 In *method1.ipynb, a Pandas DataFrame was created first. Then the data was found and saved to that DataFrame.
 
