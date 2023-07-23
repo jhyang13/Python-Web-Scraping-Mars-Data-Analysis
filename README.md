@@ -7,6 +7,6 @@ part_2_mars_weather_method1.ipynb and part_2_mars_weather_method2.ipynb are for 
 
 In *method1.ipynb, a Pandas DataFrame was created first. Then the data was found and saved to that DataFrame.
 
-In *method2.ipynb, I strictly follow the process in the starter file.
+In *method2.ipynb, I strictly followed the process in the starter file.
 
 mars_weather.csv is the CSV file for exporting the data frame.
