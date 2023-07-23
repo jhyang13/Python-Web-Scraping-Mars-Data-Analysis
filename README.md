@@ -9,4 +9,4 @@ In *method1.ipynb, a Pandas DataFrame was created first. Then the data was found
 
 In *method2.ipynb, I strictly followed the process in the starter file.
 
-mars_weather.csv is the CSV file for exporting the data frame.
+mars_weather.csv is the CSV file for exporting the data.
